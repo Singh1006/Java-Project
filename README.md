@@ -84,9 +84,7 @@ The application uses MySQL to store application data, including users, products,
 - Order tracking
 - Improved security and deployment configuration
 
-## Author
 
-**Anju Yadav**
 
 ## Repository
 
